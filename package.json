@@ -1,0 +1,22 @@
+{
+  "name": "study-lounge",
+  "version": "1.0.0",
+  "description": "Hub for students and teachers to connect to sites made specifically for their class! University of Michigan based. Go Blue!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srokit/study-lounge.git"
+  },
+  "author": "Stanley Rokita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srokit/study-lounge/issues"
+  },
+  "homepage": "https://github.com/Srokit/study-lounge#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
