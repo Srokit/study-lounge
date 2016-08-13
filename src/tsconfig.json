@@ -1,5 +1,4 @@
 {
-  "compileOnSave": "true",
   "compilerOptions": {
     "target": "es5",
     "module": "commonjs",
@@ -8,6 +7,5 @@
     "removeComments": true,
     "noImplicitAny": false,
     "outDir": "../build"
-  },
-  "exclude": ["typings"]
+  }
 }
