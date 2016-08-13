@@ -1,0 +1,12 @@
+{
+  "compileOnSave": "true",
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "removeComments": true,
+    "noImplicitAny": false,
+    "outDir": "../build"
+  }
+}
