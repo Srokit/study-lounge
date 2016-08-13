@@ -8,5 +8,6 @@
     "removeComments": true,
     "noImplicitAny": false,
     "outDir": "../build"
-  }
+  },
+  "exclude": ["typings"]
 }
